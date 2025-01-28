@@ -20,13 +20,7 @@ Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
-   ```
 2. Navega al directorio del proyecto:
-   ```bash
-   cd amigo-secreto
-   ```
 3. Abre el archivo `index.html` en tu navegador favorito.
 
 ## Uso
@@ -72,9 +66,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Autor
 
-Creado por [Tu Nombre].
+Creado por Jose Aranda Valdes.
 
 ---
-
-¡Disfruta organizando tus sorteos de amigo secreto! 🎉
 
